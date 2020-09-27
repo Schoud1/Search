@@ -1,6 +1,4 @@
-#Sukhmani Choudhry
-#Schoud9@emory.edu
-# /*THIS  CODE  WAS MY OWN WORK , IT WAS  WRITTEN  WITHOUT  CONSULTING  ANY SOURCES  OUTSIDE  OF  THOSE  APPROVED  BY THE  INSTRUCTOR. _Sukhmani_Choudhry_*/
+
 
 
 # searchAgents.py
